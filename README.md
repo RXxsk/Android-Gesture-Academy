@@ -24,6 +24,7 @@
 dependencies {
     implementation 'com.gestureacademy:core:1.0.0'
 }
+````
 
 📖 Uso básico
 
