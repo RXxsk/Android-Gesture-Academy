@@ -57,5 +57,3 @@ draggableIcon.setupDragAndDrop(
 📄 Licencia
 
 Este proyecto está bajo la licencia Apache 2.0 - ver el archivo LICENSE para más detalles.
-
-```
